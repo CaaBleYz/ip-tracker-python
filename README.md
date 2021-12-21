@@ -1,9 +1,5 @@
-|                   |
-| ip Tracker Tool   |
-|                   |
-|                   |
-|  by Cableyz,rj45  |
-|___________________|
+Tracker ip , consiste à trouver les informations
+Une ip comme par ex la ville , longitude ect...
 
 
 # ip-tracker-python
